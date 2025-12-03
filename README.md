@@ -1,5 +1,5 @@
 
-# Byzantines and trial function
+# Bant: Byzantine Antidote via Trial Function and Trust Scores
 
 ## Table of contents
 0. [Running Experiments](docs/experiments.md) -- Run the command to get reproducibility
