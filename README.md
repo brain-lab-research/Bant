@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🛡️ Bant: Byzantine Antidote via Trial Function and Trust Scores [AAAI-26 Oral]
+# 🛡️ Bant: Byzantine Antidote via Trial Function and Trust Scores
+## [AAAI-26 Oral]
 
 [![Paper](https://img.shields.io/badge/📄-Paper%20(PDF)-blue.svg)](https://arxiv.org/pdf/2505.07614)
 
